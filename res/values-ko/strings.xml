@@ -21,23 +21,23 @@
     <string name="Avatar_">"스킨 :"</string>
     <string name="Name_">"이름:"</string>
 
-    <string name="Loading___">"로딩 중 …"</string>
-    <string name="Connecting___">"연결 중 …"</string>
+    <string name="Loading___">"로딩 중 :"</string>
+    <string name="Connecting___">"연결 중 :"</string>
 
     <string name="Are_You_Sure_">"확실합니까?"</string>
     <string name="Yes">"네"</string>
     <string name="No">"아니오"</string>
-    <string name="WAIT">"기다려주세요 …"</string>
-    <string name="Must_Specify_Name_">"반드시 이름을 지정해야합니다."</string>
+    <string name="WAIT">"기다려주세요"</string>
+    <string name="Must_Specify_Name_">"반드시 이름을 지정해야합니다 :"</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"그룹을 찾는 경우 응용 프로그램에 대한 내용 등급이 변경 될 수 있습니다."</string>
 
     <string name="_Rank_">" 랭킹 "</string>
     <string name="_Alias_">" 익명 "</string>
     <string name="_Score_">" 점수 "</string>
-    <string name="Score__">"점수: "</string>
-    <string name="Recombine_">"재결합:"</string>
-    <string name="WINNER_">"우승자:"</string>
+    <string name="Score__">"점수 :"</string>
+    <string name="Recombine_">"재결합 :"</string>
+    <string name="WINNER_">"우승자 :"</string>
     <string name="IDLE">"유휴 상태"</string>
     <string name="Name_Invalid_">"잘못된 이름입니다."</string>
     <string name="Name_Taken_">"이름이 사용중입니다."</string>
@@ -89,17 +89,17 @@
     <string name="Green_Team">"초록 팀"</string>
     <string name="Blue_Team">"파랑 팀"</string>
     <string name="Yellow_Team">"노랑 팀"</string>
-    <string name="Signed_in_as_">"다음 계정으로 로그인 :"</string>
-    <string name="Not_signed_in_">"로그인하지 않음!"</string>
+    <string name="Signed_in_as_">"다음 계정으로 로그인"</string>
+    <string name="Not_signed_in_">"로그인하지 않음"</string>
     <string name="SET_NAME">"이름 설정"</string>
     <string name="SIGN_OUT">"로그아웃"</string>
     <string name="ACHIEVEMENTS">"도전과제"</string>
     <string name="STATISTICS">"통계"</string>
-    <string name="XP_">"경험치"</string>
+    <string name="XP_">"경험치 :"</string>
 
     <string name="Information">"정보"</string>
-    <string name="To_use_this_skin_you_must_earn_the_achievement">"이 스킨을 사용하려면 특정 도전과제를 달성해야합니다!"</string>
-    <string name="To_use_this_skin_you_must_reach_level">"이 스킨을 달성하려면 특정 레벨에 도달해야합니다!"</string>
+    <string name="To_use_this_skin_you_must_earn_the_achievement">"이 스킨을 사용하려면 특정 도전과제를 달성해야합니다"</string>
+    <string name="To_use_this_skin_you_must_reach_level">"이 스킨을 달성하려면 특정 레벨에 도달해야합니다"</string>
     <string name="SIGN_IN">"로그인"</string>
 
     <string name="Single_Player_Stats">"싱글 플레이어 통계"</string>
@@ -651,8 +651,8 @@
     <string name="Copied_to_clipboard_">"클립 보드에 복사되었습니다."</string>
     <string name="COPY_NAME">"이름 복사"</string>
     <string name="Challenge_Sent">"도전 전송"</string>
-    <string name="_1v1_Challenge_">"1대1 도전!"</string>
-    <string name="__has_challenged_you_to_a_1v1_match_">"%s 가 당신에게 1대1 게임을 도전했습니다!"</string>
+    <string name="_1v1_Challenge_">"1대1 도전 :"</string>
+    <string name="__has_challenged_you_to_a_1v1_match_">"가 당신에게 1대1 게임을 도전했습니다!"</string>
     <string name="Challenge_Expired">"도전이 만료되었습니다."</string>
     <string name="Enable_Challenges">"도전 적용"</string>
     <string name="Wait_for_the_current_challenge_to_expire_">"현재 문제가 만료 될 때까지 기다립니다."</string>
